@@ -1,6 +1,6 @@
 # Hi, I'm Oluwaseyi Fayomade 👋
 
-**Senior Site Reliability Engineer** based in Lagos, Nigeria — building robust, automated infrastructure for mission-critical financial systems.
+**Senior Site Reliability Engineer** based in Lagos, Nigeria - building robust, automated infrastructure for mission-critical financial systems.
 
 With 6+ years in IT infrastructure and 4+ years in senior SRE/DevOps roles, I specialise in keeping large-scale production systems reliable, observable, and continuously improving. Currently engineering payment infrastructure that processes **2M+ daily transactions** at Interswitch Group.
 
@@ -19,18 +19,18 @@ With 6+ years in IT infrastructure and 4+ years in senior SRE/DevOps roles, I sp
 ## 🚀 Featured Projects
 
 ### [sre-toolkit](https://github.com/Oluwaseyi-Fayomade/sre-toolkit)
-A production-quality SRE automation suite — covering Linux system monitoring, Kubernetes operations, observability configs, Python/AWS scripting, Terraform IaC, and a CI/CD pipeline with automated linting and validation.
+A production-quality SRE automation suite - covering Linux system monitoring, Kubernetes operations, observability configs, Python/AWS scripting, Terraform IaC, and a CI/CD pipeline with automated linting and validation.
 
 **Stack:** Bash · Python · boto3 · Terraform · Kubernetes · GitHub Actions · Prometheus
 
 ### [sre-platform](https://github.com/Oluwaseyi-Fayomade/sre-platform)
-A full-stack SRE monitoring and incident response platform built around a fintech/payment infrastructure domain — featuring automated anomaly detection, cross-service alert correlation, and cloud persistence.
+A full-stack SRE monitoring and incident response platform built around a fintech/payment infrastructure domain - featuring automated anomaly detection, cross-service alert correlation, and cloud persistence.
 
-- **Layer 1 — Agents:** Python metric and log collectors outputting structured JSON
-- **Layer 2 — Pipeline:** Processor and anomaly detector comparing metrics against baselines
-- **Layer 3 — AWS:** S3 report storage and DynamoDB incident logging via boto3
-- **Layer 4 — Terraform:** All AWS resources provisioned as Infrastructure as Code
-- **Layer 5 — CI/CD:** GitHub Actions pipeline with Python linting, agent testing, and Terraform validation
+- **Layer 1 - Agents:** Python metric and log collectors outputting structured JSON
+- **Layer 2 - Pipeline:** Processor and anomaly detector comparing metrics against baselines
+- **Layer 3 - AWS:** S3 report storage and DynamoDB incident logging via boto3
+- **Layer 4 - Terraform:** All AWS resources provisioned as Infrastructure as Code
+- **Layer 5 - CI/CD:** GitHub Actions pipeline with Python linting, agent testing, and Terraform validation
 
 **Stack:** Python · psutil · boto3 · AWS (S3, DynamoDB) · Terraform · GitHub Actions
 
@@ -47,7 +47,7 @@ A full-stack SRE monitoring and incident response platform built around a fintec
 
 ## 📚 Currently
 
-- 🎯 Targeting Senior SRE/Platform Engineering roles in **Germany 🇩🇪** and **Netherlands 🇳🇱** — open to relocation by end of 2027
+- 🎯 Targeting Senior SRE/Platform Engineering roles in **Germany 🇩🇪** and **Netherlands 🇳🇱** - open to relocation by end of 2027
 - 📖 Deepening expertise in distributed systems, system design, and cloud-native SRE practices
 - 🏗️ Building independent Python scripting skills through structured daily practice
 
@@ -58,4 +58,4 @@ A full-stack SRE monitoring and incident response platform built around a fintec
 [![GitHub](https://img.shields.io/badge/GitHub-Oluwaseyi--Fayomade-black?style=flat&logo=github)](https://github.com/Oluwaseyi-Fayomade)
 
 
-*Available for Senior SRE · DevOps · Platform Engineering roles — EU Blue Card eligible*
+*Available for Senior SRE · DevOps · Platform Engineering roles - EU Blue Card eligible*
