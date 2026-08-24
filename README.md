@@ -4,7 +4,6 @@
 
 With 6+ years in IT infrastructure and 4+ years in senior SRE/DevOps roles, I specialise in keeping large-scale production systems reliable, observable, and continuously improving. Currently engineering payment infrastructure that processes **2M+ daily transactions** at Interswitch Group.
 
----
 
 ## 🔧 What I Work With
 
@@ -16,7 +15,6 @@ With 6+ years in IT infrastructure and 4+ years in senior SRE/DevOps roles, I sp
 
 **Cloud & Infrastructure:** AWS (S3, DynamoDB, CloudWatch) · Docker · Git · SQL Server · Azure
 
----
 
 ## 🚀 Featured Projects
 
@@ -36,7 +34,6 @@ A full-stack SRE monitoring and incident response platform built around a fintec
 
 **Stack:** Python · psutil · boto3 · AWS (S3, DynamoDB) · Terraform · GitHub Actions
 
----
 
 ## 📈 What I've Delivered
 
@@ -47,7 +44,6 @@ A full-stack SRE monitoring and incident response platform built around a fintec
 - Built and deployed Datadog APM monitoring across a production Windows/.NET payment fleet
 - Engineered monitoring systems tracking **2M+ daily financial transactions**
 
----
 
 ## 📚 Currently
 
@@ -55,13 +51,11 @@ A full-stack SRE monitoring and incident response platform built around a fintec
 - 📖 Deepening expertise in distributed systems, system design, and cloud-native SRE practices
 - 🏗️ Building independent Python scripting skills through structured daily practice
 
----
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwaseyi%20Fayomade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oluwaseyi-fayomade/)
 [![GitHub](https://img.shields.io/badge/GitHub-Oluwaseyi--Fayomade-black?style=flat&logo=github)](https://github.com/Oluwaseyi-Fayomade)
 
----
 
 *Available for Senior SRE · DevOps · Platform Engineering roles — EU Blue Card eligible*
