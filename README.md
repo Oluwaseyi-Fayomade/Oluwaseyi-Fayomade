@@ -34,7 +34,7 @@ A full-stack SRE monitoring and incident response platform built around a fintec
 
 **Stack:** Python · psutil · boto3 · AWS (S3, DynamoDB) · Terraform · GitHub Actions
 
-### Salary Survival — Monthly Budget Planner & Game
+### [Salary Survival — Monthly Budget Planner & Game](https://github.com/Oluwaseyi-Fayomade/salary-tracker)
 
 A browser-based Nigerian budgeting tool that combines a standalone monthly plan with an optional salary-survival game. Users can plan income and payday, set category budgets and priorities, log or import spending, see budget alerts and a daily safe-to-spend guide, convert foreign-currency pay to a Naira estimate, and export or restore their data. The app supports browser-local storage and includes optional Supabase cloud backups and Mono bank-transaction import.
 
